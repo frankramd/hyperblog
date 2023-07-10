@@ -3,3 +3,4 @@ Franklin Ramos tiene 51 años y nacio en Venezuela
 Hoy hablamos de su vida y obra maestra completa
 Nueva linea desde el local para probar el merge cuando se haga el git pull
 Se agrega otra linea para probar el push con proxy y vpn habilitados
+Prueba de actualizacion de cambios despues de un git clone
